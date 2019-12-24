@@ -14,3 +14,4 @@ Platform tie는 공급자와 소비자간의 수수료를 최소화하여 공급
 - 블록체인을 기반으로 하기 때문에 플랫폼 수수료가 발생하지 않는다.
 
 
+![image](https://user-images.githubusercontent.com/59191151/71397606-5c460f80-2661-11ea-86ea-69fc6eff7b36.png)
